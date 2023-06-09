@@ -1,6 +1,6 @@
 
 
-namespace music {
+namespace masdfmasdf {
 
     /**
  * Play a tone
