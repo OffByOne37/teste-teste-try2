@@ -8,9 +8,15 @@ namespace music {
  */
     //% blockId=music_play_note
     //% block="play tasdf $note"
-    //% note.shadow="devicenote"
+    //% note.shadow="device_note"
     //% note.defl=Note.C
     export function playasdfasdfTone(note: number) {
+
+    }
+
+    //% block="show wheel hsv $color"
+    //% color.shadow="colorWheelHsvPicker"
+    export function showColorWheelHsv(color: number) {
 
     }
 }
