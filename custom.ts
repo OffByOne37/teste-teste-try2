@@ -8,7 +8,7 @@ namespace music {
  */
     //% blockId=music_play_note
     //% block="play tasdf $note"
-    //% note.shadow="device_note"
+    //% note.shadow="note"
     //% note.defl=Note.C
     export function playasdfasdfTone(note: number) {
 
