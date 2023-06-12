@@ -9,7 +9,6 @@ namespace masdfmasdf {
     //% blockId=music_play_note
     //% block="play tasdf $note"
     //% note.fieldEditor="note"
-    //% note.defl=Note.C
     export function playasdfasdfTone(note: number) {
 
     }
